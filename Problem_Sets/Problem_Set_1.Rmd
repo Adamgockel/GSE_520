@@ -2,7 +2,7 @@
 title: 'GSE 520: Problem Set #1'
 author: 
   - "Rus Adamovics-Davtian"
-  - "Adam Gockel"
+  - "Adam, Gockel"
   - "Russell Mcintosh"
 output: html_document
 ---
